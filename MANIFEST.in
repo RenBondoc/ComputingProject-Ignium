@@ -1,0 +1,5 @@
+include *.txt *.*
+recursive-include pcaps *
+recursive-include hyprfire_app/static/hyprfire_app *
+recursive-include hyprfire_app/templates/hyprfire_app *
+recursive-include hyprfire_app/tests/test_files *
