@@ -1,7 +1,17 @@
 # ComputingProject-Ignium
  
+ 
 # Hyprfire
 # Created by Curtin Capstone 2020 Group 23 (Stefan Cyber.)
+My Participation in the project consists of creating:
+install.py
+run.py
+hyprfire_app/models.py
+hyprfire_app/views.py
+hyprfire_app/analysis/CacheHandler.py
+hyprfire_app/analysis/ScriptProcessor.py
+hyprfire_app/utils/file.py
+hyprfire_app/utils/validation.py
 
 ### To install:
 ```
